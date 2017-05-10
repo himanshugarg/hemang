@@ -1,0 +1,119 @@
+
+ cs
+ pu
+ fd30
+ rt 90
+ fd 30
+ pd
+ pu 
+ fd 40
+ pd
+ lt 135
+ fd 130
+ rt 90
+ fd 130
+ rt 135
+ fd 70
+ rt 90
+ fd 10
+ fd 10
+ fd 10
+ fd 10
+ fd 10
+ bk 50
+ fd 60
+ bk 60
+ bk 190
+ rt 90
+ fd 40
+ lt 45
+ lt 90
+ fd 40
+ fd 10
+ rt 135
+ rt1
+
+ rt 89
+ fd 50
+ fd10
+
+ rt 45
+ lt 90
+ lt 15
+ fd 100
+ rt 120
+ rt 10
+ rt 10
+ rt 10
+ fd 90
+ fd 50
+ rt 90
+ fd 50
+ fd 10
+ fd 10
+ lt 90
+ fd 40
+ rt 45
+ rt 90
+ fd 50
+ rt 45
+ rt 90
+ fd 10
+ fd 10
+ fd 10
+ fd 10
+ bk250
+
+ rt 45
+ rt10
+
+ rt10
+
+ fd 10
+ fd 10
+ fd 10
+ pe
+ bk 30
+ rt 10
+ lt 40
+ lt 20
+ lt 10
+ lt 10
+ rt 5
+ rt 5
+ rt 5
+ rt 5
+ rt 5
+ rt 5
+ lt2
+
+ rt 10
+ lt 20
+ lt 10
+ lt 10
+ rt 5
+ fd 20
+ fd 20
+ lt 90
+ rt 45
+ rt 45
+ rt 5
+ fd 5
+ rt 90
+ lt 90
+ fd 5
+ rt 90
+ fd 70
+ bk 10
+ bk 50
+ lt5
+
+ bk 10
+ fd 60
+ bk 60
+ pd
+ fd 60
+ bk 60
+ ppt
+ fd 60
+ 
