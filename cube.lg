@@ -1,0 +1,36 @@
+to cube
+	fd 100
+	rt 90
+	fd 100
+	rt 90
+	fd 100
+	rt 90
+	fd 100
+	bk 50
+	rt 90
+	pu
+	fd 50
+	pd
+	rt 90
+	fd 100
+	rt 90
+	fd 100
+	rt 90
+	fd 100
+	rt 90
+	fd 100
+	lt 45
+	fd 70
+	lt 135
+	fd 100
+	lt 45
+	fd 70
+	lt 45
+	fd 100
+	lt 135
+	fd 70
+	rt 45
+	fd 100
+	lt 225
+	fd 70
+end
